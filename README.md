@@ -1,2 +1,2 @@
 # Frame-Animation-Notation-Basic-Script-FANBS-
-Un pequeño sistema para poder  ser mas organizado al animar con arte ASCII
+A small system to help you be more organized when animating with ASCII art
