@@ -27,7 +27,7 @@ limitations under the License.
 const fs = require("fs")
 //Frame Animation Notation Basic Script
 
-var x = fs.readFileSync("./notation.fanbs","utf-8")
+var x = fs.readFileSync("./example.fanbs","utf-8")
 async function procesar(f,t) {    
  return new Promise((e) => {   
 setTimeout(() => {
