@@ -44,7 +44,7 @@ x = x.trim()
 if (x.startsWith("/")) {
 x = x.slice(1).trim();
  s = Number(x.split("\n")[0].trim());
-console.log(s);
+//console.log(s);
 }else if(x.startsWith("[")){
 x = x.slice(x.match(/\[([\w\s]*)\]/g)[0].length);
 
