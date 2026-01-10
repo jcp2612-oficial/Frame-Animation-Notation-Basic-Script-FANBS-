@@ -26,7 +26,7 @@ Since the speed never changed, it remains the same, that is, 1 second.
 
 {
 The name is not required {
-/(O_^)\ /(*_)\
+/(O_^)\ /(*_*)\
 }
 /2500 We changed the speed to 2.5 seconds
  {
