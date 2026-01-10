@@ -30,5 +30,5 @@ The name is not required {
 }
 /2500 We changed the speed to 2.5 seconds
  {
-/(O_^)\ /(*_)\
+/(O_^)\ /(*_*)\
 }
