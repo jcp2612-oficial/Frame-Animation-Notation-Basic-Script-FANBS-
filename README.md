@@ -15,20 +15,20 @@ To add frames, we could give them a name with: [name], then in parentheses "{ }"
 Something to keep in mind is that anything else will be ignored, just like this message ;)
 
 [frame1] {
-\(O_O)/ \(*_*)/
+\(O_O)/ \(._.)/
 }
 
 Since the speed never changed, it remains the same, that is, 1 second.
 
 [frame2] {
-/(O_O)\ /(*_*)\
+/(O_O)\ /(._.)\
 }
 
-{
+
 The name is not required {
-/(O_^)\ /(*_*)\
+/(O_^)\ /(._.)\
 }
 /2500 We changed the speed to 2.5 seconds
  {
-/(O_^)\ /(*_*)\
+/(O_^)\ /(._.)\
 }
