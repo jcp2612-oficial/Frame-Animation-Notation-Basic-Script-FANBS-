@@ -1,4 +1,4 @@
-/*Copyright 2026 jcp2612-oficial
+/*Copyright 2026 jcp2612
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
